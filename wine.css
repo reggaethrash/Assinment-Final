@@ -1,0 +1,16 @@
+.card-deck {
+    margin: 25px 50px 75px;
+}
+body{
+    background-color: rgb(220, 53, 69);
+  }
+
+.dropdown-menu{
+    background-color: rgb(220, 53, 69);
+}
+.card-body{
+    text-align: left;
+}
+.btn1{
+    margin-left: 30px;
+}
